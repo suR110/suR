@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacked!</title>
+    <script>
+        // Show the pop-up alert when the page loads
+        window.onload = function() {
+            alert("Hey, you are hacked!");
+        };
+    </script>
+</head>
+<body style="background-color: black; color: red; text-align: center; margin-top: 20%;">
+    <h1>Hacked!</h1>
+    <p>Your system is under our control. Just kidding! 😄</p>
+</body>
+</html>
